@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+body {
+    background-color: #e7e7e7;
+  }
+  
+  .product-img {
+    height: 100%;
+  }
+
+  .product {
+    display: flex;
+    margin-top: 10%;
+  }
+
+  
